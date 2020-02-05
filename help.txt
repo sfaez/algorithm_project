@@ -1,0 +1,14 @@
+All commands needed for installing required packages are in the Jupiter notebook
+
+For making index run the cells of this section
+
+For using the constructed index (with name = index_4.pkl) run the cells in "read query and use index" section
+
+The input query name must be : query.fastq
+
+algorith_project is faster than algorithm_project_sorted_list
+
+
+
+
+
