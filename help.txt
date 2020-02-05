@@ -8,6 +8,13 @@ The input query name must be : query.fastq
 
 algorith_project is faster than algorithm_project_sorted_list
 
+index files;:
+
+dictonary:
+https://drive.google.com/open?id=1Hg_vlxNOruEYOcemvOQ1neDNdNCOZw2S
+sorted_list:
+https://drive.google.com/open?id=14VrIpFTeWf0eWtq2Mggx2bBSYCr8QXkO
+
 
 
 
